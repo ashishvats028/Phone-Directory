@@ -1,10 +1,10 @@
 import React, {Component} from 'react';
 
-class App extends Componen {
+class App extends Component {
   render() {
     return (
     <div>
-    
+     Phone Directory
     </div>
     );
  }
